@@ -1,14 +1,13 @@
 /*Algoritmo computacional para calcular o valor financeiro total do IPTU (Imposto Predial Territorial Urbano) 
 de um imóvel e os valores das parcelas que o proprietário do imóvel deve pagar. O usuário informa o comprimento 
 e a largura do terreno, a área construída, o tipo do imóvel e o número de parcelas.*/
-
 #include<stdio.h>
 #include<locale.h>
 
 /*Programa principal*/
 int main()
 {
-    setlocale(LC_ALL, "Portuguese");
+    setlocale(LC_ALL,"Portuguese");
 
     /*Declarção das variáveis*/
     float IPTU, valor_venal, valor_parcela, comprimento_terreno, largura_terreno;
