@@ -1,8 +1,5 @@
 
-# Título do Projeto
-
-O nome do projeto é: Neweinstein
-
+# Projeto Neweinstein
 
 ## Equipe
 
