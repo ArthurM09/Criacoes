@@ -1,6 +1,7 @@
 
 # Projeto Neweinstein
 
+
 ## Equipe
 
 - Allan Simões Adegas [@AllanAdegas](https://github.com/AllanAdegas)
@@ -10,6 +11,7 @@
 - Pedro Enzo Laurynovis Gomes [@Laurynovis](https://github.com/Laurynovis)
 
 
+
 ## Descrição do Projeto
 
 O projeto Neweinstein consiste no desenvolvimento de um sistema web voltado para o ensino e aprendizagem de Física, podendo ser utilizado por estudantes e professores do Ensino Médio, os quais serão os próprios usuários.
@@ -17,10 +19,12 @@ O projeto Neweinstein consiste no desenvolvimento de um sistema web voltado para
 O Neweinstein apresenta dez problemas de Física do Ensino Médio, os quais abordam os mais variados temas, sendo organizados em diferentes níveis de dificuldade (fácil, médio e difícil). 
 
 
+
 ## Repositório do Projeto
 
 Link do repositório do projeto:
 https://github.com/Felipinalves/DreamTeam_Certificadora1
+
 
 
 ## Instalação e Execução
@@ -34,6 +38,7 @@ O repositório usado para armazenar os arquivos e pastas do projeto foi o Github
 - VITE: é uma ferramenta de construção de projetos JavaScript que oferece desenvolvimento rápido e eficiente. Ele é usado para criar um ambiente de desenvolvimento ágil, permitindo recarregamento rápido, hot module replacement e outras melhorias para o fluxo de desenvolvimento.
 
 - FIREBASE: é uma plataforma de desenvolvimento de aplicativos da Google que oferece uma variedade de serviços, incluindo autenticação de usuários, armazenamento de dados em tempo real e hospedagem. Neste projeto, o Firebase pode ser usado para armazenar as questões, respostas e informações de pontuação dos usuários.
+
 
 
 ## Instruções de Uso
