@@ -1,9 +1,7 @@
 
 # Projeto Neweinstein
 
-![images](C:/Users/arthu/OneDrive/Imagens/Wallpaper I/images.jpg)
-
-
+![images](Downloads\images.jpg)
 
 
 ## Equipe
