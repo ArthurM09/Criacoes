@@ -1,7 +1,7 @@
 
 # Projeto Neweinstein
 
-![Logo do Neweinstein](img\images.jpg)
+![Logo do Neweinstein](https://i.pinimg.com/236x/73/9f/84/739f84b67cdd22dac888a3fc5c6192d1.jpg)
 
 
 ## Equipe
