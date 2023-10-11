@@ -1,7 +1,7 @@
 
 # Projeto Neweinstein
 
-![images](C:\Users\arthu\Downloads\images.jpg)
+![Logo Neweinstein](Users\arthu\Downloads\images.jpg)
 
 
 ## Equipe
