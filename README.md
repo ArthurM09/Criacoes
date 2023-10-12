@@ -1,7 +1,7 @@
 
 # Projeto Neweinstein
 
-![Logo Neweinstein](Users\arthu\Downloads\images.jpg)
+![Logo Neweinstein](https://i.imgur.com/lh5L7Z7.png)
 
 
 ## Equipe
